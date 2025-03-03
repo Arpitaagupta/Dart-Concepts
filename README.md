@@ -4,20 +4,6 @@
 
 Dart is a client-optimized programming language developed by Google, used for building web, mobile, and desktop applications. It is object-oriented and supports strong typing with features like asynchronous programming, null safety, and a rich standard library.  
 
-## Topics Covered  
-
-1. [Objects and Classes](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/class_objects.dart)  
-2. [Data Types & Variables](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/datatype_variables.dart)  
-3. [Var vs Dynamic](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/dart_var.dart)  
-4. [Functions](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/functions.dart)  
-5. [Lists](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/list.dart)  
-6. [Hash Maps](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/hashmap.dart)  
-7. [Const & Final Keywords](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/final_keyword.dart)  
-8. [Conditional Statements](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/practise.dart)  
-9. [Loops](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/loops.dart)  
-
----
-
 ## How to Run  
 
 ### Prerequisites  
@@ -37,32 +23,30 @@ dart run lib/functions.dart
 ---
 
 ## Topics  
+1. [Objects and Classes](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/class_objects.dart)  
+   Defines objects and how they interact using classes and methods.  
 
-### [Objects and Classes](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/class_objects.dart)  
-Defines objects and how they interact using classes and methods.  
+2. [Data Types & Variables](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/datatype_variables.dart)  
+   Represents different types of data such as integers, strings, doubles, and booleans.  
 
-### [Data Types & Variables](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/datatype_variables.dart)  
-Represents different types of data such as integers, strings, doubles, and booleans.  
+3. [Var vs Dynamic](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/dart_var.dart)  
+   Explains the difference between `var` and `dynamic` in Dart and their use cases.  
 
-### [Var vs Dynamic](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/dart_var.dart)  
-Explains the difference between `var` and `dynamic` in Dart and their use cases.  
+4. [Functions](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/functions.dart)  
+   A block of reusable code that performs a specific task, with optional parameters and return types.  
 
-### [Functions](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/functions.dart)  
-A block of reusable code that performs a specific task, with optional parameters and return types.  
+5. [Lists](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/list.dart)  
+   An ordered collection of elements that supports operations like insertion, deletion, and iteration.  
 
-### [Lists](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/list.dart)  
-An ordered collection of elements that supports operations like insertion, deletion, and iteration.  
+6. [Hash Maps](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/hashmap.dart)  
+   A collection of key-value pairs that allows efficient retrieval of data.  
 
-### [Hash Maps](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/hashmap.dart)  
-A collection of key-value pairs that allows efficient retrieval of data.  
+7. [Const & Final Keywords](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/final_keyword.dart)  
+   Defines immutable values that cannot be changed after initialization.  
 
-### [Const & Final Keywords](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/final_keyword.dart)  
-Defines immutable values that cannot be changed after initialization.  
+8. [Conditional Statements](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/practise.dart)  
+   Executes different blocks of code based on conditions using `if`, `else`, and `switch` statements.  
 
-### [Conditional Statements](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/practise.dart)  
-Executes different blocks of code based on conditions using `if`, `else`, and `switch` statements.  
-
-### [Loops](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/loops.dart)  
-Used for executing a set of statements repeatedly using `for`, `while`, and `do-while` loops.  
-
+9. [Loops](https://github.com/Arpitaagupta/Dart-Concepts/blob/main/lib/loops.dart)  
+   Used for executing a set of statements repeatedly using `for`, `while`, and `do-while` loops.  
 
