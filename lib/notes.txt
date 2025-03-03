@@ -1,0 +1,11 @@
+1. Container
+--> It is a widget that combines common painting, positioning and sizing of child widgets.
+--> It is also a class to store one or more widgets and position them on the screen according to our needs.
+--> Generally, it is similar to a box for storing contents.
+--> It allows many attributes to the user for decorating its child widget such as using margin,
+    which separates the container from other contents.
+
+
+2. Center widget
+--> It aligns its child widget to the center of available space on the screen. 
+For example, if we use any test or widget inside flutter application then it comes in top most corner.. but it will align in center.
